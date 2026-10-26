@@ -1,0 +1,51 @@
+{
+  "8523165108": {
+    "id": 8523165108,
+    "username": "aibarokah",
+    "first_name": "[DEV] AI BAROKAH STORE",
+    "joined_at": "12/10/2026 13:45:00 WIB",
+    "is_blocked": false
+  },
+  "6084140164": {
+    "id": 6084140164,
+    "username": "hrlwrld",
+    "first_name": "C",
+    "joined_at": "12/10/2026 13:47:00 WIB",
+    "is_blocked": false
+  },
+  "6642095960": {
+    "id": 6642095960,
+    "username": "jsonbearer",
+    "first_name": "bearer",
+    "joined_at": "12/10/2026 14:34:09 WIB",
+    "is_blocked": false
+  },
+  "99998888": {
+    "id": 99998888,
+    "username": "test_user",
+    "first_name": "Test",
+    "joined_at": "12/10/2026 14:52:40 WIB",
+    "is_blocked": false
+  },
+  "999111222": {
+    "id": 999111222,
+    "username": "user_uji_coba",
+    "first_name": "Budi Santoso",
+    "joined_at": "12/10/2026 14:53:59 WIB",
+    "is_blocked": false
+  },
+  "999999": {
+    "id": 999999,
+    "username": "admin",
+    "first_name": "Admin",
+    "joined_at": "12/10/2026 15:14:37 WIB",
+    "is_blocked": false
+  },
+  "12345": {
+    "id": 12345,
+    "username": "tester",
+    "first_name": "Tester",
+    "joined_at": "12/10/2026 15:50:13 WIB",
+    "is_blocked": false
+  }
+}

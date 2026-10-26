@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nama": "Canva Pro",
+    "kategori": "Akun",
+    "harga": 2373,
+    "harga_promo": 0,
+    "stok": 8,
+    "deskripsi": "Tes aja",
+    "items": [
+      "Akun #1 (Canva Pro)",
+      "Akun #2 (Canva Pro)",
+      "Akun #3 (Canva Pro)",
+      "Akun #4 (Canva Pro)",
+      "Akun #5 (Canva Pro)",
+      "Akun #6 (Canva Pro)",
+      "Akun #7 (Canva Pro)",
+      "Akun #8 (Canva Pro)"
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Gemini Pro",
+    "kategori": "AI & Software",
+    "harga": 6843,
+    "harga_promo": 0,
+    "stok": 10,
+    "deskripsi": "-",
+    "items": [
+      "Akun #1 (Gemini Pro)",
+      "Akun #2 (Gemini Pro)",
+      "Akun #3 (Gemini Pro)",
+      "Akun #4 (Gemini Pro)",
+      "Akun #5 (Gemini Pro)",
+      "Akun #6 (Gemini Pro)",
+      "Akun #7 (Gemini Pro)",
+      "Akun #8 (Gemini Pro)",
+      "Akun #9 (Gemini Pro)",
+      "Akun #10 (Gemini Pro)"
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Tes aja",
+    "kategori": "Streaming",
+    "harga": 100,
+    "harga_promo": 0,
+    "stok": 1,
+    "items": [
+      "https://www.netflix.com/unsupported?nftoken=BgjCwOvcAxLCAUBa5d+c9CsKQFzSfV2gcztavsSYp9pOYyTyVUAjwxEez5rUQqplnyAYVvu1BsYW70XaQl452Q5BTwQbH++aNUbA8xJm4XW5cR880cb/7jfkGJxq4YGgkqoqqILw/jonOihcgrzJGlF0sQC0V70e0Tq4ZZwYNC52OEYV59+SvU6nc4cPYgCV4i6z/0JM+1pgnw3gkbqqmPF23QZ2OWp54nbvsdu8Y/PgNMM38W7K8GNHM181P858D8LmXwKZEUMBr3hYGAYiDgoM7FOCl7EQRwg+mc4D"
+    ],
+    "deskripsi": "-"
+  }
+]

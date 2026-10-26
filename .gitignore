@@ -1,0 +1,17 @@
+# Environment variables (Sangat penting agar Token tidak bocor)
+.env
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Data files (opsional, jika ingin data lokal tidak ter-overwrite saat git pull)
+# data/
+
+# Temporary files
+*.tmp
+*.log
